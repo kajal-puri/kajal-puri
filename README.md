@@ -4,5 +4,5 @@
 - 👯 I’m open to collaborate on an interesting Deep Learning problem.
 - 💬 Ask me about my favorite movie or band.
 - 🐦 [@Agirlhasnofame](https://twitter.com/Agirlhasnofame) on Twitter.
-- 📫 Drop me an email at [kajal-puri@uni-bonn.de](mailto:kajal.puri@uni-bonn.de).
+- 📫 Drop me an email at [kajalpuri95@gmail.com](mailto:kajalpuri95@gmail.com).
 - ⚡ Fun fact: I code, draw and write.
