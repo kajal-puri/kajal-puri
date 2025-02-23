@@ -1,5 +1,6 @@
 - 😄 Pronouns: She/her
-- 🔭 Currently working as a Data Scientist at [Telefonica Deustchland](https://www.telefonica.de)
+- 🔭 Currently looking for a job in Data Science and Machine Learning in USA.
+- Previously, I worked as a Data Scientist at [Telefonica Deustchland](https://www.telefonica.de)
 - 🌱 I’m always learning Python and how to make Data look beautiful.
 - 👯 I’m open to collaborate on an interesting Deep Learning problem.
 - 💬 Ask me about my favorite movie or band.
